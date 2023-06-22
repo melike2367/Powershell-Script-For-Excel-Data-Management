@@ -5,7 +5,7 @@
 Import-Module -Name ImportExcel
 
 # Specify the folder path containing the text files
-$folderPath = "C:\Users\melik\Desktop\bilgisayarlar"  #buraya dosyaların çekileceği klasörün yolunu kopyalayıp yapıştırın
+$folderPath = "Type here your folder's filepath"  
 
 # Specify the Excel file path
 $excelFilePath = "$env:USERPROFILE\Desktop\excelfile.xlsx"
